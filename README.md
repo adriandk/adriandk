@@ -5,7 +5,7 @@ I’m currently learning about Jetpack Pro.
 Feel free to ask me about anything and everything!
 
 **What i'm currently working on:**
-- [Aplikasi Pencatat Pelanggaran](https://github.com/adriandk/pencatat-poin-siswa)
+- [Aplikasi Pencatat Pelanggaran](https://github.com/adriandk/The_News)
 
 ### Language and Tools
 
