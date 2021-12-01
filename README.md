@@ -5,7 +5,7 @@ I’m currently learning about Jetpack Pro.
 Feel free to ask me about anything and everything!
 
 **What i'm currently working on:**
-- [The News](https://github.com/adriandk/The_News)
+- [The Crypto](https://github.com/adriandk/The_Crypto)
 
 ### Language and Tools
 
