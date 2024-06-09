@@ -1,11 +1,8 @@
 ### Hello there, My name is Deka
-Actually, my name is Adrian, but most people call me Deka, I'm a 20 y/o Android Developer and Flutter Enthusiast. I am an undergraduate information systems student at Telkom University. I am interested in development, especially Android Development. I love to learn about anything!
+Actually, my name is Adrian, but most people call me Deka, I'm a 20 y/o Android Developer. I am an undergraduate information systems student at Telkom University. I am interested in development, especially Android Development. I love to learn about anything!
 
 I’m still learning about Android Development.
 Feel free to ask me and discuss anything!
-
-**What I'm currently working on:**
-- [Object-oriented Programming Practicum](https://github.com/adriandk/OOP-GGEZ-ADRIAN-1202220037)
 
 ### Language and Tools
 
