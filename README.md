@@ -1,5 +1,5 @@
 ### Hello there, My name is Deka
-Actually, my name is Adrian, but most people call me Deka, I'm a 20 y/o Android Developer. I am an undergraduate information systems student at Telkom University. I am interested in development, especially Android Development. I love to learn about anything!
+Actually, my name is Adrian, but most people call me Deka. I'm a 21-year-old Android Developer. I am an undergraduate information systems student at Telkom University. I am interested in software development, especially Android Development. I love to learn about anything!
 
 I’m still learning about Android Development.
 Feel free to ask me and discuss anything!
