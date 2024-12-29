@@ -14,7 +14,7 @@ Feel free to ask me and discuss anything!
 <code><img height="25" src="https://cdn.svgporn.com/logos/java.svg"></code>
 <code><img height="25" src="https://cdn.svgporn.com/logos/intellij-idea.svg"></code>
 <code><img height="25" src="https://cdn.svgporn.com/logos/bootstrap.svg"></code>
-<code><img height="25" src="https://cdn.svgporn.com/logos/materializecss.svg"></code>
+<code><img height="25" src="https://cdn.svgporn.com/logos/laravel.svg"></code>
 <code><img height="25" src="https://cdn.svgporn.com/logos/firebase.svg"></code>
 <code><img height="25" src="https://cdn.svgporn.com/logos/git-icon.svg"></code>
 <code><img height="25" src="https://cdn.svgporn.com/logos/mysql.svg"></code>
